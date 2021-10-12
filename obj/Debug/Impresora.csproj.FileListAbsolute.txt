@@ -1,0 +1,7 @@
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\bin\Debug\Impresora.exe.config
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\bin\Debug\Impresora.exe
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\bin\Debug\Impresora.pdb
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\obj\Debug\Impresora.csproj.AssemblyReference.cache
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\obj\Debug\Impresora.csproj.CoreCompileInputs.cache
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\obj\Debug\Impresora.exe
+C:\Users\Marco Peñafort\Desktop\Facultad\Laboratorio\GithubProyects\Impresora\obj\Debug\Impresora.pdb

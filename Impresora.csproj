@@ -43,6 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ArrayList.cs" />
+    <Compile Include="Documento.cs" />
+    <Compile Include="Contrato.cs" />
+    <Compile Include="Foto.cs" />
+    <Compile Include="IImprimible.cs" />
+    <Compile Include="Impresora.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

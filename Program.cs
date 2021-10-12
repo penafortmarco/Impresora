@@ -10,6 +10,11 @@ namespace Impresora
     {
         static void Main(string[] args)
         {
+            Impresora i1 = new Impresora();
+
+            i1.agregarImprimible();
+            i1.imprimirTodo();
+            Console.ReadKey();
         }
     }
 }
